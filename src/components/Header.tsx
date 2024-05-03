@@ -14,7 +14,7 @@ const Header = () => {
         variant="outline"
         className="border-none bg-transparent"
       >
-        <HiOutlineMenuAlt3 height={50} width={50} />
+        <HiOutlineMenuAlt3 size={20} />
       </Button>
     </header>
   );
